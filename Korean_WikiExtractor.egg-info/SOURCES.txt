@@ -1,0 +1,6 @@
+README.md
+setup.py
+Korean_WikiExtractor.egg-info/PKG-INFO
+Korean_WikiExtractor.egg-info/SOURCES.txt
+Korean_WikiExtractor.egg-info/dependency_links.txt
+Korean_WikiExtractor.egg-info/top_level.txt
